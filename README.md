@@ -46,7 +46,7 @@ This project demonstrates how different encryption algorithms work internally by
 
 ### ✅ Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/your-username/network-security-algorithms.git
 ```
 
 ### ✅ Step 2: Navigate to Project Directory
@@ -54,11 +54,34 @@ git clone <repository-url>
 cd network-security-project
 ```
 
-### ✅ Step 3: Run the Program
+### ✅ Step 3: Run the Program for Python/Java
 ```bash
 # Run according to your implementation
 # Example:
 python3 main.py
 # OR
 java Main
+javac Main.java
 ```
+
+### Project overflow
+``` bash
+Plain Text
+   ↓
+Encryption Algorithm
+   ↓
+Cipher Text
+   ↓
+Decryption Algorithm
+   ↓
+Original Plain Text
+```
+##  🎯Learning Outcomes
+
+ -Understanding of cryptographic fundamentals
+ -Practical knowledge of encryption algorithms
+ -Clear distinction between symmetric and asymmetric cryptography
+ -Hands-on implementation experience
+
+
+
