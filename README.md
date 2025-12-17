@@ -83,5 +83,20 @@ Original Plain Text
  -Clear distinction between symmetric and asymmetric cryptography
  -Hands-on implementation experience
 
+ ## ⚠️ Disclaimer
+
+ -This project is developed strictly for educational and academic purposes.
+ -The algorithms implemented here are not intended for production or real-world secure systems.
+
+ ## 🚧 Future Enhancements
+
+-Implement AES encryption
+
+-Add hashing algorithms (SHA-256, MD5)
+
+-GUI-based interface
+
+-Performance comparison between algorithms
+
 
 
